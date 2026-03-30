@@ -1,0 +1,24 @@
+Home:
+Suggested Films (Later)
+Featured Films
+Trending Films
+Top Rated in Particular Genres
+
+Search:
+Voice search
+Language Selection (Checkbox)
+Group - Number of people dropdown (friends,family)
+Number of People  Selection - Friends, Family, Couple, etc.
+According to the actors, directors
+Genres
+
+Collections:
+Dropdown of all genres
+
+Social Media links to Films (Hard)
+
+According to the movies they watched according suggestions (Later)
+
+Trailer on the film and plot of the film Link to Film.
+
+Links of the Film 
