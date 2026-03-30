@@ -22,3 +22,12 @@ According to the movies they watched according suggestions (Later)
 Trailer on the film and plot of the film Link to Film.
 
 Links of the Film 
+
+
+Pages : 
+
+1) Home Page
+2) Registration - Login adn Sign Up
+3) Films List
+4) Film
+5) Search Bar (Navigation thing)
